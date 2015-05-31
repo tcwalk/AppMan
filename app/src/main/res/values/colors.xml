@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+ <!-- Android constants, some added later, check api level to be sure
+
+ API level 1
+ 
+ public static final int background_dark
+ Constant Value: 17170446 (0x0106000e)
+ public static final int background_light
+ Constant Value: 17170447 (0x0106000f)
+ public static final int black
+ Constant Value: 17170444 (0x0106000c)
+ public static final int darker_gray
+ Constant Value: 17170432 (0x01060000)
+ public static final int primary_text_dark
+ Constant Value: 17170433 (0x01060001)
+ public static final int primary_text_dark_nodisable
+ Constant Value: 17170434 (0x01060002)
+ public static final int primary_text_light
+ Constant Value: 17170435 (0x01060003)
+ public static final int primary_text_light_nodisable
+ Constant Value: 17170436 (0x01060004)
+ public static final int secondary_text_dark
+ Constant Value: 17170437 (0x01060005)
+ public static final int secondary_text_dark_nodisable
+ Constant Value: 17170438 (0x01060006)
+ public static final int secondary_text_light
+ Constant Value: 17170439 (0x01060007)
+ public static final int secondary_text_light_nodisable
+ Constant Value: 17170440 (0x01060008)
+ public static final int tab_indicator_text
+ Constant Value: 17170441 (0x01060009)
+ public static final int tertiary_text_dark
+ Constant Value: 17170448 (0x01060010)
+ public static final int tertiary_text_light
+ Constant Value: 17170449 (0x01060011)
+ public static final int transparent
+ Constant Value: 17170445 (0x0106000d)
+ public static final int white
+ Constant Value: 17170443 (0x0106000b)
+ public static final int widget_edittext_dark
+ Constant Value: 17170442 (0x0106000a)
+
+ API level 14 
+
+ public static final int holo_blue_bright
+ A really bright Holo shade of blue
+ Constant Value: 17170459 (0x0106001b)
+ public static final int holo_blue_dark
+ A dark Holo shade of blue
+ Constant Value: 17170451 (0x01060013)
+ public static final int holo_blue_light
+ A light Holo shade of blue
+ Constant Value: 17170450 (0x01060012)
+ public static final int holo_green_dark
+ A dark Holo shade of green
+ Constant Value: 17170453 (0x01060015)
+ public static final int holo_green_light
+ A light Holo shade of green
+ Constant Value: 17170452 (0x01060014)
+ public static final int holo_orange_dark
+ A dark Holo shade of orange
+ Constant Value: 17170457 (0x01060019)
+ public static final int holo_orange_light
+ A light Holo shade of orange
+ Constant Value: 17170456 (0x01060018)
+ public static final int holo_purple
+ A Holo shade of purple
+ Constant Value: 17170458 (0x0106001a)
+ public static final int holo_red_dark
+ A dark Holo shade of red
+ Constant Value: 17170455 (0x01060017)
+ public static final int holo_red_light
+ A light Holo shade of red
+ Constant Value: 17170454 (0x01060016)
+ --> 
+
+
+ <color name="white">#ffffff</color>
+ <color name="ivory">#fffff0</color>
+ <color name="lightyellow">#ffffe0</color>
+ <color name="yellow">#ffff00</color>
+ <color name="snow">#fffafa</color>
+ <color name="floralwhite">#fffaf0</color>
+ <color name="lemonchiffon">#fffacd</color>
+ <color name="cornsilk">#fff8dc</color>
+ <color name="seashell">#fff5ee</color>
+ <color name="lavenderblush">#fff0f5</color>
+ <color name="papayawhip">#ffefd5</color>
+ <color name="blanchedalmond">#ffebcd</color>
+ <color name="mistyrose">#ffe4e1</color>
+ <color name="bisque">#ffe4c4</color>
+ <color name="moccasin">#ffe4b5</color>
+ <color name="navajowhite">#ffdead</color>
+ <color name="peachpuff">#ffdab9</color>
+ <color name="gold">#ffd700</color>
+ <color name="pink">#ffc0cb</color>
+ <color name="lightpink">#ffb6c1</color>
+ <color name="orange">#ffa500</color>
+ <color name="lightsalmon">#ffa07a</color>
+ <color name="darkorange">#ff8c00</color>
+ <color name="coral">#ff7f50</color>
+ <color name="hotpink">#ff69b4</color>
+ <color name="tomato">#ff6347</color>
+ <color name="orangered">#ff4500</color>
+ <color name="deeppink">#ff1493</color>
+ <color name="fuchsia">#ff00ff</color>
+ <color name="magenta">#ff00ff</color>
+ <color name="red">#ff0000</color>
+ <color name="oldlace">#fdf5e6</color>
+ <color name="lightgoldenrodyellow">#fafad2</color>
+ <color name="linen">#faf0e6</color>
+ <color name="antiquewhite">#faebd7</color>
+ <color name="salmon">#fa8072</color>
+ <color name="ghostwhite">#f8f8ff</color>
+ <color name="mintcream">#f5fffa</color>
+ <color name="whitesmoke">#f5f5f5</color>
+ <color name="beige">#f5f5dc</color>
+ <color name="wheat">#f5deb3</color>
+ <color name="sandybrown">#f4a460</color>
+ <color name="azure">#f0ffff</color>
+ <color name="honeydew">#f0fff0</color>
+ <color name="aliceblue">#f0f8ff</color>
+ <color name="khaki">#f0e68c</color>
+ <color name="lightcoral">#f08080</color>
+ <color name="palegoldenrod">#eee8aa</color>
+ <color name="violet">#ee82ee</color>
+ <color name="darksalmon">#e9967a</color>
+ <color name="lavender">#e6e6fa</color>
+ <color name="lightcyan">#e0ffff</color>
+ <color name="burlywood">#deb887</color>
+ <color name="plum">#dda0dd</color>
+ <color name="gainsboro">#dcdcdc</color>
+ <color name="crimson">#dc143c</color>
+ <color name="palevioletred">#db7093</color>
+ <color name="goldenrod">#daa520</color>
+ <color name="orchid">#da70d6</color>
+ <color name="thistle">#d8bfd8</color>
+ <color name="lightgrey">#d3d3d3</color>
+ <color name="tan">#d2b48c</color>
+ <color name="chocolate">#d2691e</color>
+ <color name="peru">#cd853f</color>
+ <color name="indianred">#cd5c5c</color>
+ <color name="mediumvioletred">#c71585</color>
+ <color name="silver">#c0c0c0</color>
+ <color name="darkkhaki">#bdb76b</color>
+ <color name="rosybrown">#bc8f8f</color>
+ <color name="mediumorchid">#ba55d3</color>
+ <color name="darkgoldenrod">#b8860b</color>
+ <color name="firebrick">#b22222</color>
+ <color name="powderblue">#b0e0e6</color>
+ <color name="lightsteelblue">#b0c4de</color>
+ <color name="paleturquoise">#afeeee</color>
+ <color name="greenyellow">#adff2f</color>
+ <color name="lightblue">#add8e6</color>
+ <color name="darkgray">#a9a9a9</color>
+ <color name="brown">#a52a2a</color>
+ <color name="sienna">#a0522d</color>
+ <color name="yellowgreen">#9acd32</color>
+ <color name="darkorchid">#9932cc</color>
+ <color name="palegreen">#98fb98</color>
+ <color name="darkviolet">#9400d3</color>
+ <color name="mediumpurple">#9370db</color>
+ <color name="lightgreen">#90ee90</color>
+ <color name="darkseagreen">#8fbc8f</color>
+ <color name="saddlebrown">#8b4513</color>
+ <color name="darkmagenta">#8b008b</color>
+ <color name="darkred">#8b0000</color>
+ <color name="blueviolet">#8a2be2</color>
+ <color name="lightskyblue">#87cefa</color>
+ <color name="skyblue">#87ceeb</color>
+ <color name="gray">#808080</color>
+ <color name="olive">#808000</color>
+ <color name="purple">#800080</color>
+ <color name="maroon">#800000</color>
+ <color name="aquamarine">#7fffd4</color>
+ <color name="chartreuse">#7fff00</color>
+ <color name="lawngreen">#7cfc00</color>
+ <color name="mediumslateblue">#7b68ee</color>
+ <color name="lightslategray">#778899</color>
+ <color name="slategray">#708090</color>
+ <color name="olivedrab">#6b8e23</color>
+ <color name="slateblue">#6a5acd</color>
+ <color name="dimgray">#696969</color>
+ <color name="mediumaquamarine">#66cdaa</color>
+ <color name="cornflowerblue">#6495ed</color>
+ <color name="cadetblue">#5f9ea0</color>
+ <color name="darkolivegreen">#556b2f</color>
+ <color name="indigo">#4b0082</color>
+ <color name="mediumturquoise">#48d1cc</color>
+ <color name="darkslateblue">#483d8b</color>
+ <color name="steelblue">#4682b4</color>
+ <color name="royalblue">#4169e1</color>
+ <color name="turquoise">#40e0d0</color>
+ <color name="mediumseagreen">#3cb371</color>
+ <color name="limegreen">#32cd32</color>
+ <color name="darkslategray">#2f4f4f</color>
+ <color name="seagreen">#2e8b57</color>
+ <color name="forestgreen">#228b22</color>
+ <color name="lightseagreen">#20b2aa</color>
+ <color name="dodgerblue">#1e90ff</color>
+ <color name="midnightblue">#191970</color>
+ <color name="aqua">#00ffff</color>
+ <color name="cyan">#00ffff</color>
+ <color name="springgreen">#00ff7f</color>
+ <color name="lime">#00ff00</color>
+ <color name="mediumspringgreen">#00fa9a</color>
+ <color name="darkturquoise">#00ced1</color>
+ <color name="deepskyblue">#00bfff</color>
+ <color name="darkcyan">#008b8b</color>
+ <color name="teal">#008080</color>
+ <color name="green">#008000</color>
+ <color name="darkgreen">#006400</color>
+ <color name="blue">#0000ff</color>
+ <color name="mediumblue">#0000cd</color>
+ <color name="darkblue">#00008b</color>
+ <color name="navy">#000080</color>
+ <color name="black">#000000</color>
+
+ <!-- Black Transparent -->
+
+ <color name="transparent_black_hex_1">#11000000</color>
+ <color name="transparent_black_hex_2">#22000000</color>
+ <color name="transparent_black_hex_3">#33000000</color>
+ <color name="transparent_black_hex_4">#44000000</color>
+ <color name="transparent_black_hex_5">#55000000</color>
+ <color name="transparent_black_hex_6">#66000000</color>
+ <color name="transparent_black_hex_7">#77000000</color>
+ <color name="transparent_black_hex_8">#88000000</color>
+ <color name="transparent_black_hex_9">#99000000</color>
+ <color name="transparent_black_hex_10">#aa000000</color>
+ <color name="transparent_black_hex_11">#bb000000</color>
+ <color name="transparent_black_hex_12">#cc000000</color>
+ <color name="transparent_black_hex_13">#dd000000</color>
+ <color name="transparent_black_hex_14">#ee000000</color>
+ <color name="transparent_black_hex_15">#ff000000</color>
+
+ <color name="transparent_black_percent_5">#0D000000</color>
+ <color name="transparent_black_percent_10">#1A000000</color>
+ <color name="transparent_black_percent_15">#26000000</color>
+ <color name="transparent_black_percent_20">#33000000</color>
+ <color name="transparent_black_percent_25">#40000000</color>
+ <color name="transparent_black_percent_30">#4D000000</color>
+ <color name="transparent_black_percent_35">#59000000</color>
+ <color name="transparent_black_percent_40">#66000000</color>
+ <color name="transparent_black_percent_45">#73000000</color>
+ <color name="transparent_black_percent_50">#80000000</color>
+ <color name="transparent_black_percent_55">#8C000000</color>
+ <color name="transparent_black_percent_60">#99000000</color>
+ <color name="transparent_black_percent_65">#A6000000</color>
+ <color name="transparent_black_percent_70">#B3000000</color>
+ <color name="transparent_black_percent_75">#BF000000</color>
+ <color name="transparent_black_percent_80">#CC000000</color>
+ <color name="transparent_black_percent_85">#D9000000</color>
+ <color name="transparent_black_percent_90">#E6000000</color>
+ <color name="transparent_black_percent_95">#F2000000</color> 
+
+ <!-- White Transparent -->
+ <color name="transparent_white_hex_1">#11ffffff</color>
+ <color name="transparent_white_hex_2">#22ffffff</color>
+ <color name="transparent_white_hex_3">#33ffffff</color>
+ <color name="transparent_white_hex_4">#44ffffff</color>
+ <color name="transparent_white_hex_5">#55ffffff</color>
+ <color name="transparent_white_hex_6">#66ffffff</color>
+ <color name="transparent_white_hex_7">#77ffffff</color>
+ <color name="transparent_white_hex_8">#88ffffff</color>
+ <color name="transparent_white_hex_9">#99ffffff</color>
+ <color name="transparent_white_hex_10">#aaffffff</color>
+ <color name="transparent_white_hex_11">#bbffffff</color>
+ <color name="transparent_white_hex_12">#ccffffff</color>
+ <color name="transparent_white_hex_13">#ddffffff</color>
+ <color name="transparent_white_hex_14">#eeffffff</color>
+ <color name="transparent_white_hex_15">#ffffffff</color> 
+
+ <color name="transparent_white_percent_5">#0Dffffff</color>
+ <color name="transparent_white_percent_10">#1Affffff</color>
+ <color name="transparent_white_percent_15">#26ffffff</color>
+ <color name="transparent_white_percent_20">#33ffffff</color>
+ <color name="transparent_white_percent_25">#40ffffff</color>
+ <color name="transparent_white_percent_30">#4Dffffff</color>
+ <color name="transparent_white_percent_35">#59ffffff</color>
+ <color name="transparent_white_percent_40">#66ffffff</color>
+ <color name="transparent_white_percent_45">#73ffffff</color>
+ <color name="transparent_white_percent_50">#80ffffff</color>
+ <color name="transparent_white_percent_55">#8Cffffff</color>
+ <color name="transparent_white_percent_60">#99ffffff</color>
+ <color name="transparent_white_percent_65">#A6ffffff</color>
+ <color name="transparent_white_percent_70">#B3ffffff</color>
+ <color name="transparent_white_percent_75">#BFffffff</color>
+ <color name="transparent_white_percent_80">#CCffffff</color>
+ <color name="transparent_white_percent_85">#D9ffffff</color>
+ <color name="transparent_white_percent_90">#E6ffffff</color>
+ <color name="transparent_white_percent_95">#F2ffffff</color>
+
+ 
+
+</resources>
