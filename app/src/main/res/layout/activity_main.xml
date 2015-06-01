@@ -28,7 +28,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="61dp"
         android:gravity="center"
-        android:clickable="true" />
+        android:clickable="true"
+        android:onClick="makeToast" />
 
     <Button
         android:layout_width="wrap_content"
@@ -41,7 +42,8 @@
         android:layout_alignLeft="@+id/button1"
         android:layout_alignStart="@+id/button1"
         android:gravity="center"
-        android:clickable="true" />
+        android:clickable="true"
+        android:onClick="makeToast" />
 
     <Button
         android:layout_width="wrap_content"
@@ -54,7 +56,8 @@
         android:layout_alignRight="@+id/button2"
         android:layout_alignEnd="@+id/button2"
         android:gravity="center"
-        android:clickable="true" />
+        android:clickable="true"
+        android:onClick="makeToast" />
 
     <Button
         android:layout_width="wrap_content"
@@ -67,7 +70,8 @@
         android:layout_alignLeft="@+id/button3"
         android:layout_alignStart="@+id/button3"
         android:gravity="center"
-        android:clickable="true" />
+        android:clickable="true"
+        android:onClick="makeToast" />
 
     <Button
         android:layout_width="wrap_content"
@@ -80,7 +84,8 @@
         android:layout_alignLeft="@+id/button4"
         android:layout_alignStart="@+id/button4"
         android:gravity="center"
-        android:clickable="true" />
+        android:clickable="true"
+        android:onClick="makeToast" />
 
     <Button
         android:layout_width="wrap_content"
@@ -93,7 +98,8 @@
         android:layout_alignLeft="@+id/button5"
         android:layout_alignStart="@+id/button5"
         android:gravity="center"
-        android:clickable="true" />
+        android:clickable="true"
+        android:onClick="makeToast" />
 
     <ImageView
         android:layout_width="wrap_content"
